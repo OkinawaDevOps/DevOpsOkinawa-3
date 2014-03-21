@@ -18,7 +18,14 @@ DevOpsOkinawa３回め。
 
 もくもく勉強会
 
+### もくもく勉強会について
+
+- [もくもく勉強会をやろう！](http://www.1x1.jp/blog/2013/12/lets-try-moku-moku-study-event.html)
+
 ## 参加申し込みフォーム
 
 準備中
 
+## 前回の反省など
+
+- [実施に関する控え](https://github.com/OkinawaDevOps/DevOpsOkinawa-2/blob/master/next.md)
