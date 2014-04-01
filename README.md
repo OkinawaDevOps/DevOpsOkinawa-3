@@ -23,7 +23,7 @@ DevOpsOkinawa３回め。
 
 ## 参加申し込みフォーム
 
-準備中
+- [DevOps Okinawa #3](http://devops-okinawa.doorkeeper.jp/events/10233)
 
 ## 前回の反省など
 
