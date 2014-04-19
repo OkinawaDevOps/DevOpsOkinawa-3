@@ -21,6 +21,19 @@ DevOpsOkinawa３回め。
 
 - [もくもく勉強会をやろう！](http://www.1x1.jp/blog/2013/12/lets-try-moku-moku-study-event.html)
 
+### すごい広島方式の採用にあたって
+
+以下のすすめかたを見習ってみようと思っています。
+
+- [すごい広島](http://great-h.github.io)
+
+とりあえず、なルールとしてもしよければ以下な対応をしてみて頂けますでしょうか。
+
++ その回のリポジトリの Issue にやることを登録
++ Issue 番号と自分の ID をもとに branch 作成
++ yyyy-mm-dd-<自分の ID>.md をつくる
++ 作ったファイルに自分の名前と Issue の番号を投入
+
 ## 参加申し込みフォーム
 
 - [DevOps Okinawa #3](http://devops-okinawa.doorkeeper.jp/events/10233)
