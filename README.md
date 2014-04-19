@@ -33,6 +33,7 @@ DevOpsOkinawa３回め。
 + Issue 番号と自分の ID をもとに branch 作成
 + yyyy-mm-dd-<自分の ID>.md をつくる
 + 作ったファイルに自分の名前と Issue の番号を投入
++ pull request を送信？
 
 ## 参加申し込みフォーム
 
